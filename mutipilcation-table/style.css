@@ -19,6 +19,20 @@
     margin-bottom: 10px;
 }
 
-.button{
+.input-text:hover {
+    border: 5px red solid ;
+}
+
+.button {
     padding: 10px;
+}
+
+.button:hover {
+    font-size: 35px;
+    color: #f3f3f8;
+    background-color: blueviolet;
+}
+
+.p{
+    margin: 5px;
 }

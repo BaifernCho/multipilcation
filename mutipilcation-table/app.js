@@ -7,7 +7,7 @@ function mutipilcation() {
     let outputHtml = '';
 
     if (number == 0) {
-        showtext.innerHTML = '0 ไม่มีค่า';
+        showtext.innerHTML = 'ต้องใส่จำนวนมากว่า0';
         return;
     }
 
